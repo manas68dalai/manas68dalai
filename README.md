@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+💫 About Me<br><br>I am a B.Tech Computer Science and Engineering student specializing in Data Science, passionate about building intelligent AI systems and scalable backend applications. My interests lie in Machine Learning, Natural Language Processing (NLP), Generative AI, and Retrieval-Augmented Generation (RAG) systems.<br><br>Currently, I am working as a Data Science/Data Engineer Intern at InvoLead Services Pvt. Ltd., where I develop LLM-powered applications using LangChain, OpenAI APIs, Hugging Face, and vector databases to build context-aware AI solutions for tasks like question answering, summarization, and intelligent retrieval.<br><br>I enjoy transforming complex data into practical AI-driven applications and continuously explore modern technologies including AI Agents, embedding models, prompt engineering, and scalable ML pipelines.<br><br>🚀 Technical Skills<br><br>💻 Programming & Databases<br><br>Python, SQL (MySQL, Oracle),<br><br>🤖 Machine Learning & AI<br><br>Supervised & Unsupervised Learning, Natural Language Processing (NLP), Deep Learning<br><br>🧠 Generative AI & LLMs<br><br>OpenAI API, LangChain, LangGraph, LangSmith, Ollama, Hugging Face, Prompt Engineering, AI Agents, RAG Pipelines, Embedding Models, Vector Databases (ChromaDB, FAISS)<br><br>📚 Libraries & Frameworks<br><br>Pandas, NumPy, Scikit-learn, TensorFlow, Keras, NLTK, Matplotlib, Seaborn, FastAPI, Streamlit<br><br>☁️ Cloud & MLOps<br><br>AWS (EC2, S3, IAM, VPC, SageMaker), Docker<br><br>🛠️ Tools & Platforms<br><br>Git, GitHub, Jupyter Notebook, Google Colab, VS Code<br><br>🌱 What I’m Focused On<br><br>* Building scalable AI and LLM-powered applications<br>* Developing intelligent RAG and AI Agent systems<br>* Exploring advanced NLP and Generative AI workflows<br>* Creating impactful real-world AI solutions through continuous learning and innovation<br><br>I am actively seeking opportunities as a Data Scientist, Machine Learning Engineer, or Generative AI Engineer where I can contribute, learn, and grow while building next-generation AI applications.<br>
 
-<!--
-**manas68dalai/manas68dalai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manas-dalai-3b91ab272/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manasdalai2004@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=manas68dalai&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=manas68dalai&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=manas68dalai&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=manas68dalai&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
